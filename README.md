@@ -182,7 +182,3 @@ A basic prototype equation for the interface:
 
 ```text
 ρ ∂²x/∂t²  -  T ∇²x  +  c ∂x/∂t  +  k x  =  S(r, t)
-## Author
-**Sam DeRenzis**
-
-Creator and maintainer of the Consciousness–Substrate Brane Theory.
